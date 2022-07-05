@@ -7,9 +7,11 @@ TARGET = Game
 HEADERS += \
     gamelauncher.h \
     mainmenu.h \
-    request.h
+    request.h \
+    card.h
 
 SOURCES += \
     gamelauncher.cpp \
     main.cpp \
-    mainmenu.cpp
+    mainmenu.cpp \
+    card.cpp
