@@ -8,4 +8,3 @@ int main(int argc, char* argv[])
     m.show();
     return app.exec();
 }
-
